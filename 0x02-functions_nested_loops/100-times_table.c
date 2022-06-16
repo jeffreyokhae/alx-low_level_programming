@@ -50,4 +50,3 @@ void print_times_table(int n)
 		_putchar('\n');
 	}
 }
-© 2022 GitHub, Inc.
